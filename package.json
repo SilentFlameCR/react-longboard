@@ -1,8 +1,8 @@
 {
-  "name": "skateboard",
+  "name": "longboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/SilentFlameCR/react-longboard",
+  "homepage": "https://silentflamecr.github.io/react-longboard/",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "font-awesome": "^4.7.0",
